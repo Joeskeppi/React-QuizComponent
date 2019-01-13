@@ -25,7 +25,7 @@ class QuizQuestion extends Component {
           </ul>
         </section>
         {this.state.incorrectAnswer ? 
-        <p class='error'>Fail</p> :
+        <p className='error'>That's not right!</p> :
         null}
       </main>
     );

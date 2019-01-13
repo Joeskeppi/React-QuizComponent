@@ -31,5 +31,5 @@ button {
   display: block;
 }
 .error {
-  color: red;
+  color: red; font-size: 10em;
 }
